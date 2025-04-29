@@ -1,0 +1,19 @@
+.btn-sty {
+    width: 60px;
+    height: 60px;
+    border: 0px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    transition: .3s;
+}
+.btn-sty:hover {
+    background-color: aqua;
+    color: black;
+}
+.square {
+    max-width: 50px;
+    min-width: 50px;
+    max-height: 50px;
+    min-height: 50px;
+}
